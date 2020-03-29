@@ -212,7 +212,7 @@ echo -e $okegreen"   ====================== Tool List =======================   
             8)  echo "SocialPhish"
                 echo -e $red "############## SocialPhish ###################"
                 sleep 2
-                git clone https://github.com/xHak9x/SocialPhish > /dev/null 2>&1
+                git clone https://github.com/habibiemw3/SocialPhish > /dev/null 2>&1
                 echo
                 echo -e $green "[ ✔ ] SocialPhish  Downloaded "
                 echo -e $yellow "" 
